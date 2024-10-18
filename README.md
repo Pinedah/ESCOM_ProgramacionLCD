@@ -1,6 +1,10 @@
 # Programación para Ciencia de Datos
 ### Francisco Pineda Hernández - 3AM1
 
+## REVISION Parcial1
+
+Muy bien, SALUDOS!
+
 ## Resumen
 
 Este repositorio contiene mis notas personales, ejercicios y asignaciones de programación relacionadas con el curso de **Programación para Ciencia de Datos**, parte del **Programa de Licenciatura en Ciencia de Datos** en el **Instituto Politécnico Nacional (IPN)**. El curso enfatiza el uso de la **programación en Python** para el manejo de datos, análisis estadístico y técnicas de modelado. Todo el material es con fines académicos y refleja mi trayecto a lo largo de esta clase.
